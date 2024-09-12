@@ -3,8 +3,8 @@ Hi,
 This bot is used to bring GitHub to the federated forge ecosystem, [via the ForgeFlux project](https://forgeflux.org). Some goals of the project include:
 
 - [ ] Federated following for:
-  - [ ]  Users
-  - [ ]  Repositories
+  - [x]  Users
+  - [x]  Repositories
   - [ ]  Issues
   - [ ]  Pull requests
 - [ ] Federated contribtions:
